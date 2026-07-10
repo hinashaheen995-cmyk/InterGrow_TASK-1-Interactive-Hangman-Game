@@ -1,1 +1,1 @@
-# InterGrow_Task-1:Interactive Hangman Game
+# InternGrow_Task-1:Interactive Hangman Game
